@@ -37,7 +37,7 @@ def get_winner(user_choice, computer_choice):
 def make_message(user_choice, computer_choice, winner):
 	msg = f'User choice is {user_choice}, PC choice is {computer_choice}. Winner is {winner}'
 	return msg
-from lib import *
+from lib2to3 import *
 
 def main():
 	for i in range(1, 4):
