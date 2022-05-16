@@ -1,0 +1,6 @@
+1 2022-05-16-16.14.09 Player - lizard, AI - paper, Winner - User
+2 2022-05-16-16.14.20 Player - spouk, AI - stone, Winner - User
+3 2022-05-16-16.37.11 Player - spouk, AI - scissors, Winner - User
+4 2022-05-16-16.37.20 Player - paper, AI - lizard, Winner - Computer
+5 2022-05-16-16.37.46 Player - stone, AI - paper, Winner - Computer
+6 16-May-2022 16:41:04 Player - stone, AI - scissors, Winner - User
